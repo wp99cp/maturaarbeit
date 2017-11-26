@@ -1,9 +1,9 @@
 # maturaarbeit
 Maturitätsarbeit an der Kantonsschule Zürich Nord - Künstliche Intelligenz am Beispiel Snake
 
-########################################
+##############
 Anleitung zur Installation unter WIN 10:
-########################################
+##############
 
 Voraussetzung: 
 - Java 8 oder neuer 
